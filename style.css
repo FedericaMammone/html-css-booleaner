@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.sfondo {
+    width: 1800px;
+    height: 180px;
+    background-image: url(img/pattern.png);
+    background-color: rgb(78, 160, 255);
+}
+
+#logo{
+    width: 250px;
+    height: 100px;
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.autore {
+    font-size: 20px;
+}
+
+.data {
+    font-size: 15px;
+}
