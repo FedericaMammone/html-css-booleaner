@@ -1,10 +1,15 @@
 * {
     margin: 0;
-    padding: 0;
+    
+}
+
+main {
+    margin-left: 5px;
+    width: 1500px;
 }
 
 .sfondo {
-    width: 1800px;
+    width: 1600px;
     height: 180px;
     background-image: url(img/pattern.png);
     background-color: rgb(78, 160, 255);
@@ -23,8 +28,30 @@ h1 {
 
 .autore {
     font-size: 20px;
+    color: grey;
 }
 
 .data {
     font-size: 15px;
+     color: grey;
+}
+
+table {
+ border-spacing: 0;
+  text-align: left;
+  border: none;
+}
+
+td {
+  border: 1px solid #dddddd;
+  padding: 0;
+  width: 1000px;
+}
+
+thead {
+    background-color: #20A9E5;
+}
+
+.riga1,.riga3 {
+    background-color: #B1E5F2;
 }
