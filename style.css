@@ -55,3 +55,35 @@ thead {
 .riga1,.riga3 {
     background-color: #B1E5F2;
 }
+
+footer {
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.suggerimento {
+    color: grey;
+    font-size: 25px;
+   
+}
+
+.img1 {
+  background-image: url(img/monitor.jpg);
+  width: 312px ;
+  height: 200px;
+  margin-top: 10px;
+}
+
+.img2 {
+    background-image: url(img/graph.jpg);
+    width: 312px ;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.text-img {
+    color: white;
+    font-size: 30px;
+    margin-left: 10px;
+    line-height: 40px;
+}
